@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"baisui.users"},{"v":2,"unique":true,"key":{"uname":1},"name":"uname_1","ns":"baisui.users","background":true}]}
